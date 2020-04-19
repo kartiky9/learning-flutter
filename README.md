@@ -1,6 +1,10 @@
+---
+description: Personalized Notes
+---
+
 # Learning Flutter
 
-Personalized Notes: ![](https://cdn.worldvectorlogo.com/logos/flutter.svg)
+ ![](https://cdn.worldvectorlogo.com/logos/flutter.svg)
 
 ## Table of Contents
 
