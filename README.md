@@ -25,8 +25,7 @@ Flutter's Layout System is heavily inspired from webs FlexBox
 
 #### Expanded
 
-![[Expanded Widget](http://img.youtube.com/vi/_rnZaagadyo/0.jpg)](https://youtu.be/_rnZaagadyo)
-
+[![Watch Expanded (Flutter Widget of the Week)](https://img.youtube.com/vi/_rnZaagadyo/hqdefault.jpg)](https://youtu.be/_rnZaagadyo)
 
 #### Flexible
 
