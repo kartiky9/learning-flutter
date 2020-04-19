@@ -4,39 +4,23 @@ Personalized Notes:
 
 ## Table of Contents
 - [Layouts](#layouts)
-	- [Row & Column](#row--column)
-		- [Expanded](#Expanded)
-		- [Flexible](#Flexible)
-		- [Divider](#Divider)
-		- [Spacer](#Spacer)
-		- [SizedBox](#SizedBox)
-		- [FittedBox](#FittedBox)
+	- [Row & Column](./docs/layouts.md#row--column)
+		- [Expanded](./docs/layouts.md#Expanded)
+		- [Flexible](./docs/layouts.md#Flexible)
+		- [Spacer](./docs/layouts.md#Spacer)
+		- [SizedBox](./docs/layouts.md#SizedBox)
+		- [FittedBox](./docs/layouts.md#FittedBox)
+		- [Divider](./docs/layouts.md#Divider)
 - [Cards](#cards)
 - [Stack](#stack)
 
 ### Layouts
-Flutter's Layout System is heavily inspired from webs FlexBox
+Flutter's Layout System is based on the web’s flexbox layout model.
 
-#### Row & Column
-- Row or Column Widget used to organize children widgets
-- Both Row and Column can be nested in each other
-- Alignment is controlled along axis with `mainAxisAlignment` (center, spaceAround, spaceEvenly) and `crossAxisAlignment` (start, end, strech). 
-- Widgets used inside can be wrapped with layout widgets like [`Expanded`](#Expanded) or [`Flexible`](#Flexible) to adjust flex proportions and also adjust responsively with increase in number of elements, example, when elements gets added programatically in the row/column)
-
-#### Expanded
-
-[![Watch Expanded (Flutter Widget of the Week)](https://img.youtube.com/vi/_rnZaagadyo/hqdefault.jpg)](https://youtu.be/_rnZaagadyo)
-
-#### Flexible
-
-#### Divider
-
-#### Spacer
-
-#### SizedBox
-
-#### FittedBox
+[More over here](./docs/layouts.md)
 
 ### Stack
+
+[![Watch Stack (Flutter Widget of the Week)](https://img.youtube.com/vi/liEGSeD3Zt8/hqdefault.jpg)](https://youtu.be/liEGSeD3Zt8)
 
 ### Cards
