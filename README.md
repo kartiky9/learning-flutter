@@ -1,5 +1,6 @@
 # Learning Flutter
-Personalized Notes
+Personalized Notes:
+<img style="margin-left:5px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width=15>
 
 ## Table of Contents
 - [Layouts](#layouts)
@@ -23,6 +24,9 @@ Flutter's Layout System is heavily inspired from webs FlexBox
 - Widgets used inside can be wrapped with layout widgets like [`Expanded`](#Expanded) or [`Flexible`](#Flexible) to adjust flex proportions and also adjust responsively with increase in number of elements, example, when elements gets added programatically in the row/column)
 
 #### Expanded
+
+![[Expanded Widget](http://img.youtube.com/vi/_rnZaagadyo/0.jpg)](https://youtu.be/_rnZaagadyo)
+
 
 #### Flexible
 
