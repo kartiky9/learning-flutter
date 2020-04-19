@@ -1,2 +1,2 @@
 # learning-flutter
-Exploring Flutter
+Learning Flutter
