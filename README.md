@@ -1,14 +1,9 @@
----
-description: Personalized Notes
----
-
 # Learning Flutter
-
- ![](https://cdn.worldvectorlogo.com/logos/flutter.svg)
+Personalized Notes
 
 ## Table of Contents
 
-* [Layouts](./#layouts)
+* [Layouts](#layouts)
   * [Row & Column](docs/layouts.md#row--column)
     * [Expanded](docs/layouts.md#Expanded)
     * [Flexible](docs/layouts.md#Flexible)
@@ -16,14 +11,15 @@ description: Personalized Notes
     * [SizedBox](docs/layouts.md#SizedBox)
     * [FittedBox](docs/layouts.md#FittedBox)
     * [Divider](docs/layouts.md#Divider)
-* [Cards](./#cards)
-* [Stack](./#stack)
+* [Cards](#cards)
+* [Stack](#stack)
+* [InkWell]()
 
 ### Layouts
 
 Flutter's Layout System is based on the web’s flexbox layout model.
 
-[More over here](docs/layouts.md)
+[More over here](./docs/layouts.md)
 
 ### Stack
 
@@ -31,3 +27,7 @@ Flutter's Layout System is based on the web’s flexbox layout model.
 
 ### Cards
 
+### InkWell
+- A rectangular area of a Material that responds to touch.
+
+![InkWell Image](https://flutter.github.io/assets-for-api-docs/assets/material/ink_well.png)
